@@ -4,5 +4,4 @@ Se incluyen la presentación donde se discute el algoritmo supervisado de machin
 
 Pueden accederlos presionando "View on GitHub" en la parte superior.
 
-
 ![Flyer](Flyer.JPG)
